@@ -1,6 +1,3 @@
-/**
- * Created by Administrator on 2017/12/13.
- */
 // 扩展运算符是三个点...
 //可以将一个数组转为用都好分隔的参数序列
 function f(x,y,z) {

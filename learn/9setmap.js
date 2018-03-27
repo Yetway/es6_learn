@@ -1,6 +1,3 @@
-/**
- * Created by Administrator on 2017/12/27.
- */
 // Set类似于数组 但成员的值是唯一的没有重复的值
 const s=new Set();
 let arr=[2,3,4,5,6,6,7,8,7,9];

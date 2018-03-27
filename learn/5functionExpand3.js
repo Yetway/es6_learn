@@ -1,6 +1,3 @@
-/**
- * Created by Administrator on 2017/12/13.
- */
 // 箭头函数
 var f =()=>5;
 f();

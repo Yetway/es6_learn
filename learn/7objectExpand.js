@@ -1,6 +1,3 @@
-/**
- * Created by Administrator on 2017/12/14.
- */
 // Object.is();
 Object.is('foo','foo');//true
 Object.is(NaN,NaN);//true

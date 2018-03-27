@@ -1,6 +1,3 @@
-/**
- * Created by Administrator on 2017/12/7.
- */
 //ES6之前函数不能指定默认值，只能才用y=y||'world'
 function log(x, y) {
   y = y || 'World';

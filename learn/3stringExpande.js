@@ -1,6 +1,3 @@
-/**
- * Created by Administrator on 2017/12/7.
- */
 // 字符串遍历接口
 // for...of
 for(let i of 'hello'){

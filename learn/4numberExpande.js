@@ -1,6 +1,3 @@
-/**
- * Created by Administrator on 2017/12/7.
- */
 // ES6 在Number对象上，新提供了Number.isFinite()和Number.isNaN()两个方法。
 
 // Number.isFinite()用来检查一个数值是否为有限的（finite）。
